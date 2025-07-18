@@ -1,5 +1,15 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+
+<h2>📱 App Screenshots</h2>
+<p float="left">
+  <img src="./assets/screenshots/Simulator Screenshot - iPhone 16 Pro - 2025-07-18 at 19.04.56.png" width="200" />
+  <img src="./assets/screenshots/Simulator Screenshot - iPhone 16 Pro - 2025-07-18 at 19.05.01.png" width="200" />
+  <img src="./assets/screenshots/Simulator Screenshot - iPhone 16 Pro - 2025-07-18 at 19.05.11.png" width="200" />
+  <img src="./assets/screenshots/Simulator Screenshot - iPhone 16 Pro - 2025-07-18 at 19.05.18.png" width="200" />
+   <img src="./assets/screenshots/Simulator Screenshot - iPhone 16 Pro - 2025-07-18 at 19.05.32.png"  />
+</p>
+
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
