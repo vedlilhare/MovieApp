@@ -7,7 +7,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
   <img src="./assets/screenshots/Simulator Screenshot - iPhone 16 Pro - 2025-07-18 at 19.05.01.png" width="200" />
   <img src="./assets/screenshots/Simulator Screenshot - iPhone 16 Pro - 2025-07-18 at 19.05.11.png" width="200" />
   <img src="./assets/screenshots/Simulator Screenshot - iPhone 16 Pro - 2025-07-18 at 19.05.18.png" width="200" />
-   <img src="./assets/screenshots/Simulator Screenshot - iPhone 16 Pro - 2025-07-18 at 19.05.32.png"  />
+   <img src="./assets/screenshots/Simulator Screenshot - iPhone 16 Pro - 2025-07-18 at 19.05.32.png" width="200"/>
 </p>
 
 # Getting Started
